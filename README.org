@@ -7,3 +7,7 @@ cp -r org-page-theme-wy ~/.emacs.d/elpa/org-page-xxxx.xx/themes/ or ln -s ~/Gith
 change org-page config
 
 add (setq op/theme 'org-page-theme-wy)
+
+[[file:1.png]]
+
+[[file:2.png]]
