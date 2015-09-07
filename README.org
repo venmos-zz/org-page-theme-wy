@@ -1,3 +1,5 @@
+from http://www.yinwang.org
+
 delete your index.org
 
 git clone https://github.com/venmos/org-page-theme-wy.git
