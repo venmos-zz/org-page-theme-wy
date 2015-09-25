@@ -10,6 +10,6 @@ change org-page config
 
 add (setq op/theme 'org-page-theme-wy)
 
-![image](https://dn-assets-gitcafe-com.qbox.me/venmos/org-page-theme-wy/raw/master/1.png)
+![image](https://raw.githubusercontent.com/venmos/org-page-theme-wy/master/1.png)
 
-![image](https://dn-assets-gitcafe-com.qbox.me/venmos/org-page-theme-wy/raw/master/2.png)
+![image](https://raw.githubusercontent.com/venmos/org-page-theme-wy/master/2.png)
